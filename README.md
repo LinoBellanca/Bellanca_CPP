@@ -4,7 +4,7 @@ Sur ce projet se trouve uniquement le timer.
 Le timer marchait juste avant que je ferme le projet pour le mettre sur le git.
 Quand je l'ai réouvert, pour quelquonque raison, la classe CountdownWidget de voulait pas être reconnue malgré avoir rebuild.
 
-Voici le code qui marchait :
+Voici le code qui marchait (d'abord créer une classe UserWidget nommée CountdownWidget) :
 
 CountdownWidget.h
 
